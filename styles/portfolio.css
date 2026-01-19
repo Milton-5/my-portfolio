@@ -100,3 +100,13 @@ nav .menu a{
         max-width: 585px;
         vertical-align: middle;
 }
+
+#about{
+    padding-top: 130px;
+}
+
+#about .about-container{
+    width: 96%;
+    max-width: 1536px;
+    margin: 0px auto ;
+} 
