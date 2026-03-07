@@ -281,3 +281,17 @@ footer .footer-container {
 
     color: #757575
 }
+
+@media screen and (max-width: 576px) {
+  #skills .skills-container .skill-box {
+    flex-direction: column;
+  }
+  .skill-box .skill-card {
+    max-width: 100%;
+  }
+  #about .about-container .about-info{
+    gap:50px;
+    flex-direction: column;
+  }
+
+}
