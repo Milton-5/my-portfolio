@@ -30,6 +30,17 @@
     cursor: pointer;
 }
 
+.btn1 {
+    background-color: #FD6E0A;
+    border: none;
+    padding: 18px 35px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    cursor: pointer;
+}
+
 .section-heading {
     max-width: 827px;
     text-align: center;
@@ -294,4 +305,16 @@ footer .footer-container {
     flex-direction: column;
   }
 
+}
+
+.btn:hover{
+    background-color: #fc6806;
+    border: 3px solid rgb(189, 12, 12);
+    
+}
+
+.btn1:hover{
+    background-color: #f59e09;
+    border: 3px solid rgb(115, 14, 14); 
+    color: #461010;
 }
