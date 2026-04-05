@@ -154,6 +154,10 @@ nav .menu a {
     padding: 131px 156px;
 }
 
+.about-container:hover{
+    background-color: #fce0d8;
+}
+
 #about .about-container .about-info {
     display: flex;
     justify-content: space-around;
